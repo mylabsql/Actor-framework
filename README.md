@@ -1,5 +1,5 @@
 # Actor-framework
-Labview .net webview -  inject whatsapp web, tokopedia
+Labview .net webview -  inject whatsapp web
 
 Aplikasi ini mengadopsi kode sumber milik 
 1. simons : https://forums.ni.com/t5/UI-Interest-Group-Documents/Windows-8-Style-UI-demo/ta-p/3496737
@@ -13,6 +13,7 @@ Setelah serangkaian perubahan dalam penggunaan activeX guna berinteraksi dengan 
 Secara tidak sengaja saya juga menemukan kode yang sudah banyak didownload milik pedroslopez. Memungkinkan kita untuk berinteraksi dengan sistem whatsapp berbasis web.
 Saya ucapakan terimakasih untuk kode yang telah dibagikan juga diGithub.
 
+Ada beberapa hal yang ingin saya buat melalui kode2 tersebut, namun saya tidak yakin apakah saya memiliki waktu untuk ini.
 Melalui ketiga kode sumber yang sangat keren ini saya mencoba untuk menggabungkannya sehingga memungkinkan aplikasi Labview untuk berinteraksi dengan browser berbasis windows. Saya hanya melakukan perubahan kecil, namun memerlukan waktu yang cukup panjang untuk memahaminya. Kode yang saya modifikasi ini saya share disini, dengan harapan bisa bermanfaat untuk siapapun yang memerlukannya.
 
 Meskipun jauh dari sempurna setidaknya kombinasi sederhana ini sudah bisa berjalan.
